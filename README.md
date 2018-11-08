@@ -11,4 +11,11 @@ To run
 Uses models pretrained on the image net task as is
 
 To run
-* Run the ipynb file
+* Run the ```keras pretrained image classification.ipynb``` file
+
+3. Keras Transfer learning
+Use VGG model prerained on the imagenet task and transfer its learning to the task at hand
+Dataset can be found here.
+
+To run
+* Run the ```Image Classification.ipynb``` file
