@@ -19,3 +19,4 @@ Dataset can be found in ```images.rar```.<br>
 Model trained for classifing human emotions into 6 basic categories is the [final_emotion_model.hdf5](https://drive.google.com/open?id=1UWnHx90XVJxx4xrxvrNILi6ZkEHn0e_M). Unzip the rar file and put in the directory.<br>
 To run
 * Run the ```Image Classification.ipynb``` file
+* To run the classification model and deployment on a custom image use ```Image Classification and deployment.ipynb```
