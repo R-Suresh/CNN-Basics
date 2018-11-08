@@ -14,8 +14,8 @@ To run
 * Run the ```keras pretrained image classification.ipynb``` file
 
 3. Keras Transfer learning
-Use VGG model prerained on the imagenet task and transfer its learning to the task at hand
-Dataset can be found here.
-Model trained for classifing human emotions into 6 basic categories is the [final_emotion_model.hdf5](https://drive.google.com/open?id=1UWnHx90XVJxx4xrxvrNILi6ZkEHn0e_M). Unzip the rar file and put in the directory.
+Use VGG model prerained on the imagenet task and transfer its learning to the task at hand<br>
+Dataset can be found in ```images.rar```.<br>
+Model trained for classifing human emotions into 6 basic categories is the [final_emotion_model.hdf5](https://drive.google.com/open?id=1UWnHx90XVJxx4xrxvrNILi6ZkEHn0e_M). Unzip the rar file and put in the directory.<br>
 To run
 * Run the ```Image Classification.ipynb``` file
