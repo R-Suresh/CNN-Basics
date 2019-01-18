@@ -8,7 +8,7 @@
 |![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output_new.jpg)| ```cropped.jpg``` |
 |![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input2.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output2.jpg)| ```cropped2.jpg``` |
 
-3.Image grid formation is showcased in ```Image Slicer and Sticher.ipynb```
+3. Image grid formation is showcased in ```Image Slicer and Sticher.ipynb```
 
 | Input        | Output           |
 | ------------- |:-------------:|
