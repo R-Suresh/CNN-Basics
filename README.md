@@ -8,7 +8,12 @@
 |![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output_new.jpg)| ```cropped.jpg``` |
 |![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input2.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output2.jpg)| ```cropped2.jpg``` |
 
-3. Basic image classifier using tensorflow. 
+3.Image grid formation is showcased in ```Image Slicer and Sticher.ipynb```
+| Input        | Output           |
+| ------------- |:-------------:|
+|![](https://github.com/R-Suresh/CNN-Basics/blob/master/slicer_input.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/slicer_output.jpg)|
+
+4. Basic image classifier using tensorflow. 
 This current model is used to differentiate between 2 celebrities.
 
 To run 
@@ -16,13 +21,13 @@ To run
 * Unzip them and add them to the same directory as the rest of the content.
 * Excecute ```python label_image.py <imagename.jpg>``` 
 
-4. Keras Pretrained image classifier
+5. Keras Pretrained image classifier
 Uses models pretrained on the image net task as is
 
 To run
 * Run the ```keras pretrained image classification.ipynb``` file
 
-3. Keras Transfer learning
+6. Keras Transfer learning
 Use VGG model prerained on the imagenet task and transfer its learning to the task at hand<br>
 Dataset can be found in ```images.rar```.<br>
 Model trained for classifing human emotions into 6 basic categories is the [final_emotion_model.hdf5](https://drive.google.com/open?id=1UWnHx90XVJxx4xrxvrNILi6ZkEHn0e_M). Unzip the rar file and put in the directory.<br>
