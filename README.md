@@ -2,13 +2,13 @@
 1. CNN for CIFAR10 with and without [image data augmentation](https://github.com/R-Suresh/Neural_Network_Basics) is ```CIFAR10 CNN.ipynb```
 
 1. Object Detection with above CIFAR10 model is in ```Car Object Detection.ipynb```<br>
-   * Input - <br>
-![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input.jpg)
-   * Output -<br>
-![](https://github.com/R-Suresh/CNN-Basics/blob/master/output.jpg)
 
+| Input        | Output           | Filename  |
+| ------------- |:-------------:| -----:|
+|![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output_new.jpg)| ```cropped.jpg``` |
+|![](https://github.com/R-Suresh/CNN-Basics/blob/master/Input2.jpg)| ![](https://github.com/R-Suresh/CNN-Basics/blob/master/output2.jpg)| ```cropped2.jpg``` |
 
-1. Basic image classifier using tensorflow. 
+3. Basic image classifier using tensorflow. 
 This current model is used to differentiate between 2 celebrities.
 
 To run 
@@ -16,7 +16,7 @@ To run
 * Unzip them and add them to the same directory as the rest of the content.
 * Excecute ```python label_image.py <imagename.jpg>``` 
 
-2. Keras Pretrained image classifier
+4. Keras Pretrained image classifier
 Uses models pretrained on the image net task as is
 
 To run
