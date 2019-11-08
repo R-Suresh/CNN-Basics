@@ -1,4 +1,5 @@
 # CNN Basics
+1. Traditional Image processing is shown in ```traditional image processing.ipynb```
 1. CNN for CIFAR10 with and without [image data augmentation](https://github.com/R-Suresh/Neural_Network_Basics) is ```CIFAR10 CNN.ipynb```
 
 1. Object Detection with above CIFAR10 model is in ```Car Object Detection.ipynb```<br>
